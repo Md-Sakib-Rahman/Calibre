@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'NimbusSanLBol';
+  src: url('./assets/Fonts/NimbusSanL-Bol.otf') format('opentype'); 
+  font-weight: normal; 
+  font-style: normal;  
+}
+@font-face {
+  font-family: 'NimbusSanLBolNoFW';
+  src: url('./assets/Fonts/NimbusSanL-Bol.otf') format('opentype'); 
+  
+}
+@font-face {
+  font-family: 'NimbusSanLBolta';
+  src: url('./assets/Fonts/NimbusSanL-BolIta.otf') format('opentype'); 
+  font-weight: normal; 
+  font-style: normal;  
+}
+@font-face {
+  font-family: 'NimbusSanLReg';
+  src: url('./assets/Fonts/NimbusSanL-Reg.otf') format('opentype'); 
+  font-weight: normal; 
+  font-style: normal;  
+}
+@font-face {
+  font-family: 'NimbusSanLReglta';
+  src: url('./assets/Fonts/NimbusSanL-Reglta.otf') format('opentype'); 
+  font-weight: normal; 
+  font-style: normal;  
+}
+@font-face {
+  font-family: 'PlacardNextBold';
+  src: url('./assets/Fonts/PlacardNextBold.ttf') format('truetype'); 
+  font-weight: normal; 
+  font-style: normal;  
+}
+.NimbusSanLBolNoFW{
+  font-family: 'NimbusSanLBolNoFW';
+}
+.numbusBol{
+  font-family: 'NimbusSanLBol';
+}
+.PlacardNextBold{
+  font-family: 'PlacardNextBold';
+}
+.new-arrivals-bg {
+  background-image: url('./assets/images/bgArivvals.png');
+  
+  
+  background-position: center;
+  
+}
+
