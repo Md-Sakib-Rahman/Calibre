@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'black-fade': 'linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%)',
-        'about-bg': "url('./src/assets/images/stackofcloths.jpg') ",
+        'about-bg': "url('./public/stackofcloths.jpg') ",
       },
     },
   },
